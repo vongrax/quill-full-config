@@ -1,0 +1,133 @@
+@font-face {
+  font-family: 'Caveat';
+  src: url('./assets/fonts/Caveat-Regular.woff2') format('woff2'),
+  url('./assets/fonts/Caveat-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Comfortaa';
+  src: url('./assets/fonts/Comfortaa-Regular.woff2') format('woff2'),
+  url('./assets/fonts/Comfortaa-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('./assets/fonts/Roboto-Regular.woff2') format('woff2'),
+  url('./assets/fonts/Roboto-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Playfair Display';
+  src: url('./assets/fonts/PlayfairDisplay-Medium.woff2') format('woff2'),
+  url('./assets/fonts/PlayfairDisplay-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Merriweather';
+  src: url('./assets/fonts/Merriweather-Regular.woff2') format('woff2'),
+  url('./assets/fonts/Merriweather-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Balsamiq Sans';
+  src: url('./assets/fonts/BalsamiqSans-Regular.woff2') format('woff2'),
+  url('./assets/fonts/BalsamiqSans-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Lobster';
+  src: url('./assets/fonts/Lobster-Regular.woff2') format('woff2'),
+  url('./assets/fonts/Lobster-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Rubik';
+  src: url('./assets/fonts/Rubik-Regular.woff2') format('woff2'),
+  url('./assets/fonts/Rubik-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Mulish';
+  src: url('./assets/fonts/Mulish-Regular.woff2') format('woff2'),
+  url('./assets/fonts/Mulish-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('./assets/fonts/Montserrat-Regular.woff2') format('woff2'),
+  url('./assets/fonts/Montserrat-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Raleway';
+  src: url('./assets/fonts/Raleway-Regular.woff2') format('woff2'),
+  url('./assets/fonts/Raleway-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('./assets/fonts/Inter-Regular.woff2') format('woff2'),
+  url('./assets/fonts/Inter-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.App {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding-top: 40px;
+}
+
+.button {
+  padding: 10px 20px;
+  background: #189aef;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.content h1 {
+  text-align: left;
+  font-family: 'Balsamiq Sans', sans-serif;
+}
